@@ -1,0 +1,4 @@
+﻿  Library Management.cpp
+C:\Users\neopa\source\repos\Library Management\Library Management\Member.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\neopa\source\repos\Library Management\Library Management\Member.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Library Management.vcxproj -> C:\Users\neopa\source\repos\Library Management\Debug\Library Management.exe
